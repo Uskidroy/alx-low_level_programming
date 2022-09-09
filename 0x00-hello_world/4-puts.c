@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
-* main - print the string in the put function
+* main - serves as the entry point for the program
 *
-* Discription:using the main function
-* this program prints "programming is like building a multiligual puzzle
-* Return: 0
+* Return:by default returns zero if no erros otherwise
+returns non-zero value.
 */
 int main(void)
 {
