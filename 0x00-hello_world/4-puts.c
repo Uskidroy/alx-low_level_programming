@@ -1,7 +1,8 @@
+#!/bin/bash
 #include <stdio.h>
 
 /**
-* main - printprint the string in the put function
+* main - print the string in the put function
 *
 * Discription:using the main function
 * this program prints "programming is like building a multiligua puzzle
